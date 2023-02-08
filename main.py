@@ -7,7 +7,8 @@ def glebs(volume: int) -> str:
     for i in range(volume):
         gleb_str += 'gleb '
     return gleb_str
-
+def new():
+    print('Ahaha')
 
 def meh():
     pass
@@ -16,3 +17,4 @@ def meh():
 if __name__ == '__main__':
     print_hi('фФФФ')
     print(glebs(3))
+    new()
