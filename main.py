@@ -9,6 +9,10 @@ def glebs(volume: int) -> str:
     return gleb_str
 
 
+def meh():
+    pass
+
+
 if __name__ == '__main__':
     print_hi('фФФФ')
     print(glebs(3))
